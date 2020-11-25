@@ -1,0 +1,28 @@
+.container {
+  margin: 0 5vw;
+  background-color: #aaaaaa;
+}
+
+.image {
+  margin: 0 5vw;
+  width: 100%;
+  border: 5px solid #000000;
+}
+
+.header {
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+
+.text {
+  background-color: #608080;
+  border: 2px solid #000000;
+  margin-left: 25px;
+  padding: 5px;
+}
+
+a:hover {
+  color: red;
+}

@@ -1,0 +1,32 @@
+.form {
+  font-style: oblique;
+  font-size: 1.1rem;;
+}
+
+.text {
+  color: #7a12fd; 
+}
+
+.password {
+  color: #aaaadf;
+}
+
+.checkbox {
+  color: #098717; 
+}
+
+.radio1 {
+  color: #0987af;
+}
+
+.radio2 {
+  color: #4ac506;
+}
+
+.textarea {
+  color: #98074d; 
+}
+
+.select {
+  color: #f4d4fc;
+}
